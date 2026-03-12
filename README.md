@@ -1,4 +1,4 @@
-# 🐝 LanMsg — BeeBeep-inspired LAN Messenger
+# LanMsg — A Python based LAN Messenger
 
 A peer-to-peer LAN messenger written in **pure Python stdlib** — no third-party
 dependencies, 100% commercially safe (PSF License).
